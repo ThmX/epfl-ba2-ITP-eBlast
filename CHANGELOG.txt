@@ -1,0 +1,12 @@
+eBlast CHANGELOG
+------------------------------
+
+This is the rules for the changelog:
+	- Entries are sorted newest-first.
+	- Summarize sets of changes - don't reproduce every GIT log comment here.
+	- Do NOT ever delete anything.
+	- Keep the format consistent (79 char width, mm.dd.yyyy date format).
+
+------------------------------------------------------------------------------
+25.05.2011 - ThmX :
+	* Initial version : 1.0
