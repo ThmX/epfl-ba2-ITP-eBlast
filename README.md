@@ -12,24 +12,28 @@ eBlast est un client BitTorrent capable de gérer plusieurs téléchargement en 
 
 
 ### Informations
-![Informations](https://github.com/ThmX/epfl-ba2-ITP-eBlast/raw/master/info.png "Informations")
-	\includegraphics[scale=0.5]{infos}
+![Informations](https://github.com/ThmX/epfl-ba2-ITP-eBlast/raw/master/infos.png "Informations")
+
 Toutes les informations concernant le \textit{torrent} sont résumées sur ce panneau.
 
 ### Trackers
 ![Trackers](https://github.com/ThmX/epfl-ba2-ITP-eBlast/raw/master/tracker.png "Trackers")
+
 Cette onglet vous permet de savoir combien de pairs sont connectés à un \textit{tracker}, et surtout si la connexion a bien été établie.
 
 ### Peers
 ![Peers](https://github.com/ThmX/epfl-ba2-ITP-eBlast/raw/master/peers.png "Peers")
+
 L'onglet \textit{Peers} permet d'afficher tous les pairs connectés, le client utilisé ainsi que leurs pourcentages de téléchargement.
 
 ### Files
 ![Files](https://github.com/ThmX/epfl-ba2-ITP-eBlast/raw/master/files.png "Files")
+
 Cette onglet n'est pas utile pour le moment. Cependant, la possiblité de télécharger à l'aide de torrents multi-fichiers sera implémentée prochainement. De ce fait, il sera pratique d'afficher la liste de tous les fichiers contenua dans le fichier torrent.
 
 ### Configurations
 ![Configurations](https://github.com/ThmX/epfl-ba2-ITP-eBlast/raw/master/config.png "Configurations")
+
 Il est possible de configurer les options suivantes :
  * Répertoire de téléchargement
  * Port de connexion auquels les pairs vont se connecter.
